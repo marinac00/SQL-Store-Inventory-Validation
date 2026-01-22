@@ -38,4 +38,4 @@ Even with "perfect" data, I treated this as a real audit to practice the technic
 * `Inventory_Value_by_Risk_Category.png`: The visual result from Power BI.
 
 ### 💾 Data Source
-The dataset used (`inventory_data.csv`) is included in this repository for reproducibility purposes.
+The dataset used (`Inventory_Management_E_Grocery_InventoryData.csv`) is included in this repository for reproducibility purposes.
